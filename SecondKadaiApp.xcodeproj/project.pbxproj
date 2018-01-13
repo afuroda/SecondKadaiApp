@@ -14,6 +14,7 @@
 		1E163F1F20090BB3002A3BCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E163F1D20090BB3002A3BCA /* LaunchScreen.storyboard */; };
 		1E163F2A20090BB4002A3BCA /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E163F2920090BB4002A3BCA /* SecondKadaiAppTests.swift */; };
 		1E163F3520090BB4002A3BCA /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E163F3420090BB4002A3BCA /* SecondKadaiAppUITests.swift */; };
+		1E163F4320090FDE002A3BCA /* ReplyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E163F4220090FDE002A3BCA /* ReplyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1E163F3020090BB4002A3BCA /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E163F3420090BB4002A3BCA /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		1E163F3620090BB4002A3BCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E163F4220090FDE002A3BCA /* ReplyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				1E163F1420090BB3002A3BCA /* AppDelegate.swift */,
 				1E163F1620090BB3002A3BCA /* ViewController.swift */,
 				1E163F1820090BB3002A3BCA /* Main.storyboard */,
+				1E163F4220090FDE002A3BCA /* ReplyViewController.swift */,
 				1E163F1B20090BB3002A3BCA /* Assets.xcassets */,
 				1E163F1D20090BB3002A3BCA /* LaunchScreen.storyboard */,
 				1E163F2020090BB3002A3BCA /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E163F1720090BB3002A3BCA /* ViewController.swift in Sources */,
+				1E163F4320090FDE002A3BCA /* ReplyViewController.swift in Sources */,
 				1E163F1520090BB3002A3BCA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
